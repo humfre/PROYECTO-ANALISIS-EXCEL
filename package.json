@@ -1,0 +1,21 @@
+{
+    "name": "proyecto-analisis-excel",
+    "version": "1.0.0",
+    "description": "Backend application for file upload and data analysis",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "dev": "nodemon index.js"
+    },
+    "author": "Tu Nombre",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.2",
+      "mongoose": "^6.0.12",
+      "multer": "^1.4.4"
+    },
+    "devDependencies": {
+      "nodemon": "^2.0.15"
+    }
+  }
+  
